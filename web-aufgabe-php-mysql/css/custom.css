@@ -1,0 +1,11 @@
+body { 
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../img/background.jpg);
+}
+h1 {
+    text-align: center;
+}
+#addButton {
+    position: fixed;
+    top: 2rem;
+}
